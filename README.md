@@ -1,5 +1,4 @@
-# Capstone 2
-# E-commerce Product Classification using LSTM
+# E-commerce Product Classification using LSTM (Capstone 2)
 
 # Project Description
 This project classifies products from an e-commerce platform into four categories: Electronics, Household, Books, and Clothing & Accessories.
